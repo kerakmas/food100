@@ -1,6 +1,6 @@
 // Level
 
-const lvl = document.querySelector('.level');
+const lvl = document.querySelector('komron');
 
 rec()
 function rec(count = 1, speed = 30){
